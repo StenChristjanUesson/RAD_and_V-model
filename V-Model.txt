@@ -1,0 +1,54 @@
+1. Kas V-mudel sobib eEduka projektile?
+Jah, V-mudel sobib hästi meie projektile. Meie 10-liikmeline meeskond saab kasutada seda selget, struktureeritud ja samm-sammult arenevat lähenemist. Kuna töötame kodust, on oluline, et iga etapp oleks hoolikalt planeeritud ja dokumenteeritud — V-mudel toetab seda läbipaistvust ning tagab kvaliteedi juba algusest peale.
+
+Kuigi klient on saadaval vaid kord nädalas, saame temaga teha põhjalikke ülevaateid iga olulise etapi lõpus — V-mudel rõhutab just sellist kindlat kliendi kaasamist planeerimise ja testimise faasides. Praktikantide jaoks on kasulik selge struktuur ja dokumentatsioon, mis aitab neil mõista kogu arendusprotsessi.
+
+Millist V-mudeli strateegiat kasutame?
+Rakendame klassikalist V-mudelit, kus arendus- ja testimisetapid kulgevad paralleelselt:
+
+Vasak haru: nõuete analüüs, süsteemi- ja tarkvaradisain, üksuste arendus
+
+Paremal harul: üksustestimine, integratsioonitest, süsteemitest ja kasutajate aktsepteerimistest
+
+See võimaldab meil juba varakult planeerida testid ja tagada kvaliteedi kogu projekti vältel.
+
+V-mudeli elemendid meie projektis
+Selged etapid ja dokumentatsioon
+Iga faas algab põhjaliku planeerimisega: kasutajate süsteemi nõuded, disain ja funktsioonide jagamine. Seejärel liigume arendusse ja järk-järgult testides lähemale lõppversioonile.
+
+Kliendi kaasamine faaside lõpus
+Kord nädalas toimuvad kliendikohtumised, kus esitame valminud osad (disain, prototüübid, testitulemused). Vahepeal saadame Loomi videoid ja Figma prototüüpe kinnitamiseks.
+
+Testimine on integreeritud igasse arendusetappi
+Alustame üksustestimisest, jätkame integratsioonitestidega ja lõpetame süsteemi- ning aktsepteerimistestidega. Iga test vastab kindlale nõudele, mis on alguses täpselt määratletud.
+
+Tagasiside ja parendused
+Iga iteratsiooni lõpus toimub põhjalik ülevaade ja retrospektiiv, kus analüüsime vigade põhjuseid ja parandame protsessi. Praktikandid osalevad testimises ja dokumenteerivad õpitut.
+
+Peamised riskid ja nende maandamine
+Risk	Kirjeldus	Lahendus
+Kommunikatsioonikatkestus	Info võib kaduda kaugtöös	Regulaarne dokumenteerimine ja koosolekud
+Ebamäärased rollid	Uued liikmed ei tea oma täpseid kohustusi	Selged rollid ja ülesanded, RACI tabel
+Praktikantide aeglane areng	Tugev juhendamise vajadus	Mentorid ja selged tööjuhendid
+
+Meeskonna rollid ja vastutused
+Roll	Ülesanded	V-mudeli põhimõtte tugi
+Praktikant	Testide läbiviimine, dokumentatsioon	Selge testimistsükkel, õppimine
+Arendaja	Koodi kirjutamine, testide ettevalmistus	Üksus- ja integratsioonitestid
+Disainer	Süsteemidisain ja kasutajaliides	Nõuete ja disaini dokumentatsioon
+Testija	Testide automatiseerimine ja läbiviimine	Järjepidev kvaliteedikontroll
+Projektijuht	Projekti planeerimine, ajakava haldus	Faaside koordineerimine ja riskijuhtimine
+Klient	Nõuete kinnitamine, testide aktsepteerimine	Kliendi nõuete ja tagasiside roll
+
+V-mudeli põhimõtted meie projektis
+Planeerimine ja dokumentatsioon — iga etapp on hoolikalt läbi mõeldud ja dokumenteeritud.
+
+Järjestikused arendus- ja testimisetapid — iga arendusfaasile vastab testimisfaas, mis tagab vigade varajase avastamise.
+
+Kliendi osalus — kord nädalas esitleme kliendile iga faasi tulemusi ja saame kinnituse.
+
+Selged rollid ja vastutus — kõik teavad oma ülesandeid ja kohustusi.
+
+Kvaliteedi tagamine kogu protsessi vältel — testimise integreerimine hoiab projekti kontrolli all.
+
+Jätkuv parendamine — retrospektiivid ja tagasiside aitavad protsessi täiustada.
