@@ -1,0 +1,62 @@
+1. Kas RAD sobib eEduka projektile?
+Jah, RAD on meie projektile ideaalne. Meil on 10-liikmeline meeskond, mis on piisavalt suur, et tööd jagada, aga samas paindlik. Kuna kõik töötame kodust, on oluline sujuv suhtlus ja kiire tagasiside — RAD toetab just seda iteratiivset ja kaasavat koostööd.
+
+Meie klient on saadaval vaid kord nädalas, kuid RAD võimaldab meil teha kiireid prototüüpe ja demoesitlusi, mida kliendile regulaarselt näidata ning tema arvamust rakendada. Praktikantide jaoks on RAD eriti sobiv, sest see toetab kiiret õppimist ja tiimitööd.
+
+Millist RAD strateegiat kasutame?
+Valime kiire prototüüpimise ja iteratiivse arenduse mudeli — iga 4 nädala jooksul valmis MVP (minimum viable product) osa. See võimaldab meil keskenduda funktsionaalsusele, testida seda reaalsetes tingimustes ja klienti aktiivselt kaasata. Iteratsioonid aitavad planeerida, testida ja parandada sammhaaval.
+
+RAD elemendid meie töös
+Tihe suhtlus
+Iga päev peame lühikesed videokoosolekud (Google Meet), kasutame Slacki kanaliteks ja jagame ideid Miro tahvlil. Info voolab vabalt ja kiiresti.
+
+Avatud tagasiside ja õppimine
+Regulaarsed retrospektiivid (iga kahe nädala tagant) annavad võimaluse rääkida avatult, ilma hirmuta. Praktikandid saavad mentorilt tuge ja kasvatavad oskusi sammhaaval.
+
+Iteratsioonide plaan
+
+iteratsioon: kasutajakontod ja disain
+
+iteratsioon: õppematerjalide jagamine ja tunniplaan
+
+iteratsioon: õpilaste jälgimine
+
+iteratsioon: testimine ja viimased parandused
+
+Iga iteratsiooni lõpus demonstreerime kliendile valmis osasid ja kogume tagasisidet.
+
+Kliendi kaasamine
+Kliendi kohtumine on kord nädalas, milleks valmistume hästi. Vahepeal saadame Loom-videosid ja jagame prototüüpe Figma kaudu.
+
+Pidev areng ja õppimine
+Praktikandid saavad järjest keerukamaid ülesandeid ja jagavad oma õppetunde iganädalaselt. Kasutame ka videoõpetusi ja sisekoolitusi.
+
+Suurimad riskid ja lahendused
+Risk	Kirjeldus	Lahendus
+Kommunikatsioonikatkestus	Info võib kaduma minna kodutöös	Igapäevased koosolekud, Slack
+Ebamäärased rollid	Uued liikmed ei tea täpselt oma ülesandeid	Selge rollijaotus RACI tabeliga
+Praktikantide aeglane areng	Julgustuse puudus ja aeglane kohanemine	Mentor ja väikesed ülesanded
+
+Meeskonna rollid ja vastutused
+Roll	Ülesanded	RAD põhimõtte tugi
+Praktikant	Testib, dokumenteerib, õpib	Pidev õppimine, julge tagasiside
+Arendaja	Koodi kirjutamine, paaristöö	Iteratiivne arendus, tiimitöö
+Disainer	Prototüübid, UX testimine	Kiire prototüüpimine, kliendisuhtlus
+Testija	Automaat- ja käsitsi testimine	Kvaliteedikontroll
+Projektijuht	Koordineerimine, riskide juhtimine	Sujuv info liikumine, koostöö
+Klient	Nõuanded, tagasiside	Kliendi kaasamine iteratsioonidel
+
+RAD põhimõtted meie projektis
+Kiired iteratsioonid — MVP valmib iga 4 nädala järel, kliendile testimiseks vaheversioonid iga 2 nädala tagant.
+
+Tihe kommunikatsioon — igapäevased lühikoosolekud ja Slacki kanalid hoiavad meeskonna ühtsena.
+
+Paindlikkus ja turvalisus — julged ideed, vead on õppimise osa, tagasiside retrospektiivides.
+
+Kliendi aktiivne kaasamine — regulaarne demo ja pidev tagasiside.
+
+Pidev õppimine — mentorid toetavad, väiksed ülesanded aitavad areneda.
+
+Meeskonna dünaamika — rollid ja töömeetodid kohanduvad vastavalt vajadustele ja kogemustele.
+
+Kui vajad, võin aidata ka visuaalse skeemi kokku panna RAD spetsiifikast, iteratsioonidest ja tiimisuhtlusest! Kas soovid?
